@@ -1,1 +1,8 @@
+# Exclude demo video
 Assets/demo.mp4
+
+# Exclude temporary Tableau files
+.~*.twbr
+
+# Exclude macOS system files
+.DS_Store
