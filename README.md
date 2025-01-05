@@ -14,7 +14,9 @@ The project consists of two interactive dashboards:
 
 ## 🎥 Demo Video
 
-Here is a demo of the project in action: [Demo Video](https://youtu.be/5_dubTSA5_E)
+Here is a demo of the project in action: ![Demo GIF](Assets/demo.gif)
+
+You can also watch the full demo video here: [Demo Video](https://youtu.be/C327Zr83rUg)
 
 
 ## 🏗️ Project Workflow
