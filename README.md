@@ -12,6 +12,11 @@ The project consists of two interactive dashboards:
 ![alt text](Assets/customer_dashboard.png)
 
 
+## 🎥 Demo Video
+
+Here is a demo of the project in action: [Demo Video](https://youtu.be/5_dubTSA5_E)
+
+
 ## 🏗️ Project Workflow
 
 ### 1. Requirements Analysis
@@ -66,8 +71,3 @@ Enhanced user engagement with dynamic and interactive elements:
 - **Customer Lifecycle Analysis**: Develop cohort analysis features to monitor customer lifecycle patterns and identify opportunities for customer retention and growth.
 - **Automated Data Refresh**: Establish automated processes for data updates to enable real-time analytics and insights.
 - **AI-Generated Insights**: Explore the integration of AI-powered insights through cloud deployment and large language model (LLM) capabilities to enhance data interpretation and decision support.
-
-
-## 🎥 Demo Video
-
-Here is a demo of the project in action: [![Demo Video](Assets/sales_dashboard.png)](https://youtu.be/5_dubTSA5_E)
