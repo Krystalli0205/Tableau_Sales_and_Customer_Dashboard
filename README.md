@@ -1,5 +1,6 @@
 # Sales & Customer Analytics Dashboard
 
+
 ## 📊 Project Overview
 This project simulates a BI Engineer's workflow in a professional environment, following industry best practices from requirement gathering through implementation. By collecting stakeholder requirements and translating them into appropriate data visualizations, I built insightful and interactive Tableau dashboards that provide trend monitoring and actionable insights for key stakeholders.
 
@@ -10,6 +11,7 @@ The project consists of two interactive dashboards:
 2) **Customer Dashboard**: Equips **marketing teams and executives** with tools to understand customer segmentation, analyze behavioral trends, and track engagement metrics. This facilitates targeted marketing strategies to enhance customer satisfaction and drive revenue growth.
 ![alt text](Assets/customer_dashboard.png)
 
+
 ## 🏗️ Project Workflow
 
 ### 1. Requirements Analysis
@@ -18,11 +20,13 @@ The initial phase focused on understanding stakeholder needs and defining busine
 - **Translation into BI Metrics**: Converted abstract business requirements into measurable data metrics and determined appropriate granularity. Refer to [Sales_Dashboard_Requirement_Analysis.pdf](Sales_Dashboard_Requirement_Analysis.pdf)
 - **Chart Selection**: Identified suitable visualization types for each metric. Refer to the highlighted sections in [Sales_Dashboard_Requirement_Analysis.pdf](Sales_Dashboard_Requirement_Analysis.pdf).
 
+
 ### 2. Dashboard Design
 Designed the dashboard structure and interactivity to meet business objectives.
 - **Mockup Creation**: Developed mockups to outline the dashboard layout and align with stakeholder expectations.
 - **Formatting Standards**: Defined a consistent color scheme, spacing, and layout for enhanced readability and branding.
 - **Interactive Features**: Designed filters for year, product category, and location data, and added intuitive navigation between dashboards.
+
 
 ### 3. Data Preparation
 Prepared and modeled the dataset to ensure integrity and usability.
@@ -30,6 +34,7 @@ Prepared and modeled the dataset to ensure integrity and usability.
 - **Data Modeling**: Established logical relationships and created a comprehensive data model.
 - **Field Standardization**: Renamed fields and tables for clarity, ensuring consistent and correct data types.
 - **Data Exploration**: Validated data logic, granularity, and relationships by testing rows and columns.
+
 
 ### 4. Dashboard Implementation
 Built dashboards following the defined requirements and designs.
@@ -47,10 +52,12 @@ Built dashboards following the defined requirements and designs.
 #### Customer Dashboard
 - Applied a similar workflow as the Sales Dashboard, with a focus on customer-specific KPIs, customer distribution by order frequency, and top 10 customer metrics.
 
+
 ### 5. Interactivity and Customization
 Enhanced user engagement with dynamic and interactive elements:
 - **Filters**: Implemented floating filter panels for year, product, and location selections across charts.
 - **Navigation**: Added interactive buttons and icons for seamless transitions between dashboards.
+
 
 ## 🚀 Future Improvements
 
@@ -60,6 +67,7 @@ Enhanced user engagement with dynamic and interactive elements:
 - **Automated Data Refresh**: Establish automated processes for data updates to enable real-time analytics and insights.
 - **AI-Generated Insights**: Explore the integration of AI-powered insights through cloud deployment and large language model (LLM) capabilities to enhance data interpretation and decision support.
 
+
 ## 🎥 Demo Video
 
-Here is a demo of the project in action: ![video](Assets/Demo.mp4)
+Here is a demo of the project in action: [![Demo Video](Assets/sales_dashboard.png)](https://youtu.be/5_dubTSA5_E)
